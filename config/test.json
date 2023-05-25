@@ -1,0 +1,5 @@
+{
+	//"DBHost": "mongodb://localhost/testopusneodb" 	
+	//"DBHost"	: "mongodb://sureshchouksey:suresh123@ds121495.mlab.com:21495/testdemo"
+	"DBHost"	: "mongodb://192.168.99.100:27017/testdemo"  // MongoDB in Docker
+}

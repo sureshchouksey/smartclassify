@@ -1,0 +1,34 @@
+[2023-05-22T07:57:05.452] [INFO] info - Start Get Company Service
+[2023-05-22T07:57:05.453] [ERROR] info - Get Device Service: Internal server error ReferenceError: Company is not defined
+    at exports.getAll (/Users/sureshchouksey/Work/smartclassify/smartclassify/controllers/company.js:47:7)
+    at Layer.handle [as handle_request] (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/index.js:280:10)
+    at SendStream.error (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (node:events:512:28)
+[2023-05-24T13:07:33.530] [INFO] info - Start Get Company Service
+[2023-05-24T13:07:33.535] [ERROR] info - Get Device Service: Internal server error ReferenceError: Company is not defined
+    at exports.getAll (/Users/sureshchouksey/Work/smartclassify/smartclassify/controllers/company.js:47:7)
+    at Layer.handle [as handle_request] (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/index.js:346:12)
+    at next (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/express/lib/router/index.js:280:10)
+    at SendStream.error (/Users/sureshchouksey/Work/smartclassify/smartclassify/node_modules/serve-static/index.js:121:7)
+    at SendStream.emit (node:events:512:28)
+[2023-05-24T13:08:14.290] [INFO] info - Start Get Company Service
+[2023-05-24T13:29:02.127] [INFO] info - Start Get Company Service
+[2023-05-24T15:55:45.117] [INFO] info - Start Get Company Service { location: 'London' }
+[2023-05-24T15:59:07.260] [INFO] info - Start Get Company Service { Location: 'London' }
+[2023-05-24T16:00:18.913] [INFO] info - Start Get Company Service { Location: 'London', Area: 'Computer Programming' }
+[2023-05-24T16:00:40.057] [INFO] info - Start Get Company Service {
+  Location: 'London',
+  Area: 'Computer Programming',
+  VisaType: 'Skilled Worker'
+}
